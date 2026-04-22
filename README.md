@@ -33,7 +33,7 @@ El usuario puede presionar un botón para que el dispositivo lea en voz alta el 
 ---
 
 ## Estructura del proyecto
-
+```
 AndroidCero_2.0/
 ├── app/
 │ ├── src/main/
@@ -46,6 +46,8 @@ AndroidCero_2.0/
 ├── gradle/
 ├── build.gradle.kts
 ├── settings.gradle.kts
+
+```
 
 ---
 
