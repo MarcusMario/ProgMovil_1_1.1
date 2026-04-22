@@ -1,4 +1,4 @@
-# Ejercicio 2 – Android TextToSpeech
+# Ejercicio 1 – Android TextToSpeech
 
 ## Descripción
 Aplicación Android que implementa la funcionalidad de TextToSpeech para convertir texto en voz.  
